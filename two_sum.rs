@@ -6,18 +6,14 @@ impl Solution {
             nums.iter().enumerate().map(|(i, num)| (*num, i)).collect();
 
         for (i, num) in nums.iter().enumerate() {
-            match map.get(&(target - num)) {
-                Some(index) => {
-                    if (i != *index) {
-                        // the solution requires return type to be i32, not usize
-                        return vec![i as i32, *index as i32];
-                    }
+            if let Some(&index) = map.get(&(target - num)) {
+                if (i != index) {
+                    // the solution requires return type to be i32, not usize
+                    return vec![i as i32, index as i32];
                 }
-                None => {}
             }
         }
 
-        // the problem suggests this cannot be reached
         panic!()
     }
 }
