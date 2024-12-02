@@ -14,8 +14,6 @@
 //     }
 //   }
 // }
-use std::mem;
-
 impl Solution {
     pub fn merge_two_lists(
         list1: Option<Box<ListNode>>,
@@ -29,26 +27,25 @@ impl Solution {
 
         // do the merge iteratively, a bit harder than recursion
         while list1.is_some() && list2.is_some() {
-            let mut holder: Option<Box<ListNode>> = None;
-            if (list1.as_ref().unwrap().val < list2.as_ref().unwrap().val) {
-                mem::swap(&mut holder, &mut list1.as_mut().unwrap().next);
-                curr.as_mut().unwrap().next = list1;
-                list1 = holder;
+            if (list1.as_ref()?.val < list2.as_ref()?.val) {
+                let tmp = list1.as_mut()?.next.take();
+                curr.as_mut()?.next = list1;
+                list1 = tmp;
             } else {
-                mem::swap(&mut holder, &mut list2.as_mut().unwrap().next);
-                curr.as_mut().unwrap().next = list2;
-                list2 = holder;
+                let tmp = list2.as_mut()?.next.take();
+                curr.as_mut()?.next = list2;
+                list2 = tmp;
             }
-            curr = &mut curr.as_mut().unwrap().next;
+            curr = &mut curr.as_mut()?.next;
         }
 
         if list1.is_some() {
-            curr.as_mut().unwrap().next = list1;
+            curr.as_mut()?.next = list1;
         } else {
             // list2 may be None, but it's fine - just no-op
-            curr.as_mut().unwrap().next = list2;
+            curr.as_mut()?.next = list2;
         }
 
-        head.unwrap().next
+        head?.next
     }
 }
