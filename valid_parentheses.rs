@@ -10,19 +10,16 @@ impl Solution {
         for chr in s.chars() {
             match chr {
                 '(' | '[' | '{' => stack.push(chr),
-                ')' | ']' | '}' => match stack.pop() {
-                    Some(ele) => {
+                // problem says the input string consists of parentheses only
+                // so this must match ending bracket types
+                _ => {
+                    if let Some(ele) = stack.pop() {
                         if pairs.get(&ele) != Some(&chr) {
                             return false;
                         }
-                    }
-                    None => {
+                    } else {
                         return false;
                     }
-                },
-                // problem says the input string consists of parentheses only
-                _ => {
-                    panic!();
                 }
             }
         }
