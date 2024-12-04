@@ -6,7 +6,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [21. Merge Two Sorted Lists](merge_two_sorted_lists.rs)
 - [121. Best Time to Buy and Sell Stock](best_time_to_buy_and_sell_stock.rs)
 - [125. Valid Palindrome](valid_palindrome.rs)
-- 226\. Invert Binary Tree
+- [226. Invert Binary Tree](invert_binary_tree.rs)
 - 242\. Valid Anagram
 - 704\. Binary Search
 - 733\. Flood Fill
