@@ -8,7 +8,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [125. Valid Palindrome](valid_palindrome.rs)
 - [226. Invert Binary Tree](invert_binary_tree.rs)
 - [242. Valid Anagram](valid_anagram.rs)
-- 704\. Binary Search
+- [704. Binary Search](binary_search.rs)
 - 733\. Flood Fill
 - 235\. Lowest Common Ancestor of a Binary Search Tree
 - 110\. Balanced Binary Tree
