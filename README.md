@@ -11,7 +11,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [704. Binary Search](binary_search.rs)
 - [733. Flood Fill](flood_fill.rs)
 - [235. Lowest Common Ancestor of a Binary Search Tree](lowest_common_ancestor_of_a_binary_search_tree.rs)
-- 110\. Balanced Binary Tree
+- [110. Balanced Binary Tree](balanced_binary_tree.rs)
 - 141\. Linked List Cycle
 - 232\. Implement Queue using Stacks
 - 278\. First Bad Version
