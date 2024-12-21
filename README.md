@@ -13,7 +13,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [235. Lowest Common Ancestor of a Binary Search Tree](lowest_common_ancestor_of_a_binary_search_tree.rs)
 - [110. Balanced Binary Tree](balanced_binary_tree.rs)
 - ~~141. Linked List Cycle~~
-- 232\. Implement Queue using Stacks
+- [232. Implement Queue using Stacks](implement_queue_using_stacks.rs)
 - 278\. First Bad Version
 - 383\. Ransom Note
 - 70\. Climbing Stairs
