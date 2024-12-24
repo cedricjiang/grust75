@@ -14,7 +14,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [110. Balanced Binary Tree](balanced_binary_tree.rs)
 - ~~141. Linked List Cycle~~
 - [232. Implement Queue using Stacks](implement_queue_using_stacks.rs)
-- 278\. First Bad Version
+- [278. First Bad Version](first_bad_version.rs)
 - 383\. Ransom Note
 - 70\. Climbing Stairs
 - 409\. Longest Palindrome
