@@ -15,7 +15,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - ~~141. Linked List Cycle~~
 - [232. Implement Queue using Stacks](implement_queue_using_stacks.rs)
 - [278. First Bad Version](first_bad_version.rs)
-- 383\. Ransom Note
+- [383. Ransom Note](ransom_note.rs)
 - 70\. Climbing Stairs
 - 409\. Longest Palindrome
 - 206\. Reverse Linked List
