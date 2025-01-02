@@ -17,7 +17,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [278. First Bad Version](first_bad_version.rs)
 - [383. Ransom Note](ransom_note.rs)
 - [70. Climbing Stairs](climbing_stairs.rs)
-- 409\. Longest Palindrome
+- [409. Longest Palindrome](longest_palindrome.rs)
 - 206\. Reverse Linked List
 - 169\. Majority Element
 - 67\. Add Binary
