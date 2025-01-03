@@ -18,7 +18,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [383. Ransom Note](ransom_note.rs)
 - [70. Climbing Stairs](climbing_stairs.rs)
 - [409. Longest Palindrome](longest_palindrome.rs)
-- 206\. Reverse Linked List
+- [206. Reverse Linked List](reverse_linked_list.rs)
 - 169\. Majority Element
 - 67\. Add Binary
 - 543\. Diameter of Binary Tree
