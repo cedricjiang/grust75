@@ -2,8 +2,7 @@ use std::collections::HashMap;
 
 impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
-        let mut map: HashMap<i32, usize> =
-            nums.iter().enumerate().map(|(i, num)| (*num, i)).collect();
+        let map: HashMap<i32, usize> = nums.iter().enumerate().map(|(i, num)| (*num, i)).collect();
 
         for (i, num) in nums.iter().enumerate() {
             if let Some(&index) = map.get(&(target - num)) {
