@@ -20,7 +20,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [409. Longest Palindrome](longest_palindrome.rs)
 - [206. Reverse Linked List](reverse_linked_list.rs)
 - [169. Majority Element](majority_element.rs)
-- 67\. Add Binary
+- [67. Add Binary](add_binary.rs)
 - 543\. Diameter of Binary Tree
 - 876\. Middle of the Linked List
 - 104\. Maximum Depth of Binary Tree
