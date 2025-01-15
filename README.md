@@ -23,7 +23,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [67. Add Binary](add_binary.rs)
 - [543. Diameter of Binary Tree](diameter_of_binary_tree.rs)
 - [876. Middle of the Linked List](middle_of_the_linked_list.rs)
-- 104\. Maximum Depth of Binary Tree
+- [104. Maximum Depth of Binary Tree](maximum_depth_of_binary_tree.rs)
 - 217\. Contains Duplicate
 - 53\. Maximum Subarray
 - 57\. Insert Interval
