@@ -25,7 +25,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [876. Middle of the Linked List](middle_of_the_linked_list.rs)
 - [104. Maximum Depth of Binary Tree](maximum_depth_of_binary_tree.rs)
 - [217. Contains Duplicate](contains_duplicate.rs)
-- 53\. Maximum Subarray
+- [53. Maximum Subarray](maximum_subarray.rs)
 - 57\. Insert Interval
 - 542\. 01 Matrix
 - 973\. K Closest Points to Origin
