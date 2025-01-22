@@ -26,7 +26,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [104. Maximum Depth of Binary Tree](maximum_depth_of_binary_tree.rs)
 - [217. Contains Duplicate](contains_duplicate.rs)
 - [53. Maximum Subarray](maximum_subarray.rs)
-- 57\. Insert Interval
+- [57. Insert Interval](insert_interval.rs)
 - 542\. 01 Matrix
 - 973\. K Closest Points to Origin
 - 3\. Longest Substring Without Repeating Characters
