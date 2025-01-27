@@ -28,7 +28,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [53. Maximum Subarray](maximum_subarray.rs)
 - [57. Insert Interval](insert_interval.rs)
 - [542. 01 Matrix](01_matrix.rs)
-- 973\. K Closest Points to Origin
+- [973. K Closest Points to Origin](k_closest_points_to_origin.rs)
 - 3\. Longest Substring Without Repeating Characters
 - 15\. 3Sum
 - 102\. Binary Tree Level Order Traversal
