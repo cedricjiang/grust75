@@ -30,7 +30,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [542. 01 Matrix](01_matrix.rs)
 - [973. K Closest Points to Origin](k_closest_points_to_origin.rs)
 - [3. Longest Substring Without Repeating Characters](longest_substring_without_repeating_characters.rs)
-- 15\. 3Sum
+- [15. 3Sum](3sum.rs)
 - 102\. Binary Tree Level Order Traversal
 - 133\. Clone Graph
 - 150\. Evaluate Reverse Polish Notation
