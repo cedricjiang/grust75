@@ -33,7 +33,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [15. 3Sum](3sum.rs)
 - [102. Binary Tree Level Order Traversal](binary_tree_level_order_traversal.rs)
 - ~~133. Clone Graph~~
-- 150\. Evaluate Reverse Polish Notation
+- [150. Evaluate Reverse Polish Notation](evaluate_reverse_polish_notation.rs)
 - 207\. Course Schedule
 - 208\. Implement Trie (Prefix Tree)
 - 322\. Coin Change
