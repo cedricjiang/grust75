@@ -34,7 +34,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [102. Binary Tree Level Order Traversal](binary_tree_level_order_traversal.rs)
 - ~~133. Clone Graph~~
 - [150. Evaluate Reverse Polish Notation](evaluate_reverse_polish_notation.rs)
-- 207\. Course Schedule
+- [207. Course Schedule](course_schedule.rs)
 - 208\. Implement Trie (Prefix Tree)
 - 322\. Coin Change
 - 238\. Product of Array Except Self
