@@ -35,7 +35,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - ~~133. Clone Graph~~
 - [150. Evaluate Reverse Polish Notation](evaluate_reverse_polish_notation.rs)
 - [207. Course Schedule](course_schedule.rs)
-- 208\. Implement Trie (Prefix Tree)
+- [208. Implement Trie (Prefix Tree)](implement_trie_prefix_tree.rs)
 - 322\. Coin Change
 - 238\. Product of Array Except Self
 - 155\. Min Stack
