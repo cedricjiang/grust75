@@ -37,7 +37,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [207. Course Schedule](course_schedule.rs)
 - [208. Implement Trie (Prefix Tree)](implement_trie_prefix_tree.rs)
 - [322. Coin Change](coin_change.rs)
-- 238\. Product of Array Except Self
+- [238. Product of Array Except Self](product_of_array_except_self.rs)
 - 155\. Min Stack
 - 98\. Validate Binary Search Tree
 - 200\. Number of Islands
