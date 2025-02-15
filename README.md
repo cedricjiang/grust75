@@ -38,7 +38,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [208. Implement Trie (Prefix Tree)](implement_trie_prefix_tree.rs)
 - [322. Coin Change](coin_change.rs)
 - [238. Product of Array Except Self](product_of_array_except_self.rs)
-- 155\. Min Stack
+- [155. Min Stack](min_stack.rs)
 - 98\. Validate Binary Search Tree
 - 200\. Number of Islands
 - 994\. Rotting Oranges
