@@ -39,7 +39,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [322. Coin Change](coin_change.rs)
 - [238. Product of Array Except Self](product_of_array_except_self.rs)
 - [155. Min Stack](min_stack.rs)
-- 98\. Validate Binary Search Tree
+- [98. Validate Binary Search Tree](validate_binary_search_tree.rs)
 - 200\. Number of Islands
 - 994\. Rotting Oranges
 - 33\. Search in Rotated Sorted Array
