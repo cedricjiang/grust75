@@ -41,7 +41,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [155. Min Stack](min_stack.rs)
 - [98. Validate Binary Search Tree](validate_binary_search_tree.rs)
 - [200. Number of Islands](number_of_islands.rs)
-- 994\. Rotting Oranges
+- [994. Rotting Oranges](rotting_oranges.rs)
 - 33\. Search in Rotated Sorted Array
 - 39\. Combination Sum
 - 46\. Permutations
