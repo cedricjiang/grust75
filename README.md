@@ -42,7 +42,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [98. Validate Binary Search Tree](validate_binary_search_tree.rs)
 - [200. Number of Islands](number_of_islands.rs)
 - [994. Rotting Oranges](rotting_oranges.rs)
-- 33\. Search in Rotated Sorted Array
+- [33. Search in Rotated Sorted Array](search_in_rotated_sorted_array.rs)
 - 39\. Combination Sum
 - 46\. Permutations
 - 56\. Merge Intervals
