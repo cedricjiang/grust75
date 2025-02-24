@@ -43,7 +43,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [200. Number of Islands](number_of_islands.rs)
 - [994. Rotting Oranges](rotting_oranges.rs)
 - [33. Search in Rotated Sorted Array](search_in_rotated_sorted_array.rs)
-- 39\. Combination Sum
+- [39. Combination Sum](combination_sum.rs)
 - 46\. Permutations
 - 56\. Merge Intervals
 - 236\. Lowest Common Ancestor of a Binary Tree
