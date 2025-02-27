@@ -45,7 +45,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [33. Search in Rotated Sorted Array](search_in_rotated_sorted_array.rs)
 - [39. Combination Sum](combination_sum.rs)
 - [46. Permutations](permutations.rs)
-- 56\. Merge Intervals
+- [56. Merge Intervals](merge_intervals.rs)
 - 236\. Lowest Common Ancestor of a Binary Tree
 - 981\. Time Based Key-Value Store
 - 721\. Accounts Merge
