@@ -49,7 +49,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [236. Lowest Common Ancestor of a Binary Tree](lowest_common_ancestor_of_a_binary_tree.rs)
 - [981. Time Based Key-Value Store](time_based_key_value_store.rs)
 - [721. Accounts Merge](accounts_merge.rs)
-- 75\. Sort Colors
+- [75. Sort Colors](sort_colors.rs)
 - 139\. Word Break
 - 416\. Partition Equal Subset Sum
 - 8\. String to Integer (atoi)
