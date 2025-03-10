@@ -51,7 +51,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [721. Accounts Merge](accounts_merge.rs)
 - [75. Sort Colors](sort_colors.rs)
 - [139. Word Break](word_break.rs)
-- 416\. Partition Equal Subset Sum
+- [416. Partition Equal Subset Sum](partition_equal_subset_sum.rs)
 - 8\. String to Integer (atoi)
 - 54\. Spiral Matrix
 - 78\. Subsets
