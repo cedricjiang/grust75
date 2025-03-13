@@ -52,7 +52,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [75. Sort Colors](sort_colors.rs)
 - [139. Word Break](word_break.rs)
 - [416. Partition Equal Subset Sum](partition_equal_subset_sum.rs)
-- 8\. String to Integer (atoi)
+- [8. String to Integer (atoi)](string_to_integer_atoi.rs)
 - 54\. Spiral Matrix
 - 78\. Subsets
 - 199\. Binary Tree Right Side View
