@@ -54,7 +54,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [416. Partition Equal Subset Sum](partition_equal_subset_sum.rs)
 - [8. String to Integer (atoi)](string_to_integer_atoi.rs)
 - [54. Spiral Matrix](spiral_matrix.rs)
-- 78\. Subsets
+- [78. Subsets](subsets.rs)
 - 199\. Binary Tree Right Side View
 - 5\. Longest Palindromic Substring
 - 62\. Unique Paths
