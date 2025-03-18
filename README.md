@@ -55,7 +55,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [8. String to Integer (atoi)](string_to_integer_atoi.rs)
 - [54. Spiral Matrix](spiral_matrix.rs)
 - [78. Subsets](subsets.rs)
-- 199\. Binary Tree Right Side View
+- [199. Binary Tree Right Side View](binary_tree_right_side_view.rs)
 - 5\. Longest Palindromic Substring
 - 62\. Unique Paths
 - 105\. Construct Binary Tree from Preorder and Inorder Traversal
