@@ -58,7 +58,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [199. Binary Tree Right Side View](binary_tree_right_side_view.rs)
 - [5. Longest Palindromic Substring](longest_palindromic_substring.rs)
 - [62. Unique Paths](unique_paths.rs)
-- 105\. Construct Binary Tree from Preorder and Inorder Traversal
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](construct_binary_tree_from_preorder_and_inorder_traversal.rs)
 - 11\. Container With Most Water
 - 17\. Letter Combinations of a Phone Number
 - 79\. Word Search
