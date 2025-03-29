@@ -60,7 +60,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [62. Unique Paths](unique_paths.rs)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](construct_binary_tree_from_preorder_and_inorder_traversal.rs)
 - [11. Container With Most Water](container_with_most_water.rs)
-- 17\. Letter Combinations of a Phone Number
+- [17. Letter Combinations of a Phone Number](letter_combinations_of_a_phone_number.rs)
 - 79\. Word Search
 - 438\. Find All Anagrams in a String
 - 310\. Minimum Height Trees
