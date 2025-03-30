@@ -62,7 +62,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [11. Container With Most Water](container_with_most_water.rs)
 - [17. Letter Combinations of a Phone Number](letter_combinations_of_a_phone_number.rs)
 - [79. Word Search](word_search.rs)
-- 438\. Find All Anagrams in a String
+- [438. Find All Anagrams in a String](find_all_anagrams_in_a_string.rs)
 - 310\. Minimum Height Trees
 - 621\. Task Scheduler
 - 146\. LRU Cache
