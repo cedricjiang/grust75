@@ -64,7 +64,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [79. Word Search](word_search.rs)
 - [438. Find All Anagrams in a String](find_all_anagrams_in_a_string.rs)
 - [310. Minimum Height Trees](minimum_height_trees.rs)
-- 621\. Task Scheduler
+- [621. Task Scheduler](task_scheduler.rs)
 - 146\. LRU Cache
 - 230\. Kth Smallest Element in a BST
 - 76\. Minimum Window Substring
