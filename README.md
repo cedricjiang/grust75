@@ -68,7 +68,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [146. LRU Cache](lru_cache.rs)
 - [230. Kth Smallest Element in a BST](kth_smallest_element_in_a_bst.rs)
 - [76. Minimum Window Substring](minimum_window_substring.rs)
-- 297\. Serialize and Deserialize Binary Tree
+- [297. Serialize and Deserialize Binary Tree](serialize_and_deserialize_binary_tree.rs)
 - 42\. Trapping Rain Water
 - 295\. Find Median from Data Stream
 - 127\. Word Ladder
