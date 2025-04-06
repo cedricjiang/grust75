@@ -66,7 +66,7 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [310. Minimum Height Trees](minimum_height_trees.rs)
 - [621. Task Scheduler](task_scheduler.rs)
 - [146. LRU Cache](lru_cache.rs)
-- 230\. Kth Smallest Element in a BST
+- [230. Kth Smallest Element in a BST](kth_smallest_element_in_a_bst.rs)
 - 76\. Minimum Window Substring
 - 297\. Serialize and Deserialize Binary Tree
 - 42\. Trapping Rain Water
