@@ -74,5 +74,5 @@ A repository that includes Rust solutions to selected LeetCode questions in the 
 - [127. Word Ladder](word_ladder.rs)
 - [224. Basic Calculator](basic_calculator.rs)
 - [1235. Maximum Profit in Job Scheduling](maximum_profit_in_job_scheduling.rs)
-- 23\. Merge k Sorted Lists
+- [23. Merge k Sorted Lists](merge_k_sorted_lists.rs)
 - 84\. Largest Rectangle in Histogram
